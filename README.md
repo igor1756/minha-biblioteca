@@ -56,8 +56,6 @@ Uma aplicação web simples para navegar e gerenciar uma coleção de livros loc
 ![Screenshot da página inicial da aplicação](./public/livro-excluir.png)
 - Clicar em "adicionar" para adicionar um livro:
 ![Screenshot da página inicial da aplicação](./public/livro-add.png)
-<br>
-<br>
 
 
 ## Próximos passos
