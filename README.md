@@ -52,10 +52,8 @@ Uma aplicação web simples para navegar e gerenciar uma coleção de livros loc
 ![Screenshot da página inicial da aplicação](./public/livros.png)
 - Clicar "editar" para editar um livro:
 ![Screenshot da página inicial da aplicação](./public/livro-editar.png)
-<br>
 - Clicar em "excluir" para apagar um livro:
 ![Screenshot da página inicial da aplicação](./public/livro-excluir.png)
-<br>
 - Clicar em "adicionar" para adicionar um livro:
 ![Screenshot da página inicial da aplicação](./public/livro-add.png)
 <br>
